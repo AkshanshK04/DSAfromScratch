@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
