@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0064-minimum-path-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0064-minimum-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0064-minimum-path-sum) |
 ## Simulation
 |  |
 | ------- |
