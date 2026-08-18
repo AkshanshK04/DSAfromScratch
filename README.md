@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
