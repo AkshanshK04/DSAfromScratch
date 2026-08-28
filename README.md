@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
