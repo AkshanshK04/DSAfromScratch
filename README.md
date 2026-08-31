@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
