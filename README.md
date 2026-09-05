@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
