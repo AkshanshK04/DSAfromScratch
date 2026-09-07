@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0066-plus-one) |
 ## Matrix
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0073-set-matrix-zeroes) |
 ## String
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
