@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0078-subsets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
@@ -190,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
