@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
