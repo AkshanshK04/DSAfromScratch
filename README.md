@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
