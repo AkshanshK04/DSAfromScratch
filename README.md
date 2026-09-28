@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0093-restore-ip-addresses) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0093-restore-ip-addresses) |
 ## Algorithm X
 |  |
 | ------- |
