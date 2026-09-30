@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
+| [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0093-restore-ip-addresses) |
+| [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Algorithm X
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Quicksort
 |  |
 | ------- |
