@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
 ## Stack
 |  |
 | ------- |
@@ -268,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
