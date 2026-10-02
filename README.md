@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Quicksort
 |  |
