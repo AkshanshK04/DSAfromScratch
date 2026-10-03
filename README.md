@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Algorithm X
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0125-valid-palindrome) |
 ## Bubble Sort
 |  |
 | ------- |
