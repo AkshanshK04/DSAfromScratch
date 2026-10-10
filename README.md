@@ -295,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+## Database
+|  |
+| ------- |
+| [0180-consecutive-numbers](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
