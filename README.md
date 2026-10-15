@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 ## Math
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
