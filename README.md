@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -334,4 +336,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
