@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -310,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0200-number-of-islands) |
 ## Database
 |  |
 | ------- |
