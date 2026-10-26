@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0205-isomorphic-strings) |
 ## Algorithm X
 |  |
 | ------- |
