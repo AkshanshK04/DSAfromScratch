@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -394,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0209-minimum-size-subarray-sum) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
