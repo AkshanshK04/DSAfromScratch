@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -425,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
