@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quicksort
 |  |
 | ------- |
