@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0205-isomorphic-strings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Algorithm X
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0068-text-justification) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
