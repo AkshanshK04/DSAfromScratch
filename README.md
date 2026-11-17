@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0223-rectangle-area) |
+| [0227-basic-calculator-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0227-basic-calculator-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Algorithm X
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
