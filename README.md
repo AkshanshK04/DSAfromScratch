@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0227-basic-calculator-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Algorithm X
 |  |
 | ------- |
