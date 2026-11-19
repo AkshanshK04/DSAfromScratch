@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3693-climbing-stairs-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quicksort
 |  |
