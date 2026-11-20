@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0228-summary-ranges) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1267-count-servers-that-communicate) |
