@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Manacher
 |  |
 | ------- |
@@ -417,10 +420,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
