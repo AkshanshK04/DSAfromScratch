@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1352-product-of-the-last-k-numbers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0231-power-of-two) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
 | ------- |
