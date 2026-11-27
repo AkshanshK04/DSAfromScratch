@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3693-climbing-stairs-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0221-maximal-square) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AkshanshK04/DSAfromScratch/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3693-climbing-stairs-ii](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/AkshanshK04/DSAfromScratch/tree/master/0179-largest-number) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AkshanshK04/DSAfromScratch/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/AkshanshK04/DSAfromScratch/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Quicksort
 |  |
 | ------- |
